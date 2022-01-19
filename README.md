@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Cyber security
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me ... IG : XRPHUB
+- 📫 How to reach me , on IG : XRPHUB
 
 <!---
 xrphub/xrphub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
